@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 export default axios.create({
-      baseURL: 'http://54.237.207.74:8080',
+      baseURL: 'http://54.198.187.29:8080',
       headers:  {"Access-Control-Allow-Origin": "*",
                  "Access-Control-Allow-Credentials":"false",
                  "Access-Control-Allow-Methods": "*",
