@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 export default axios.create({
-      baseURL: 'https://54.198.187.29',
+      baseURL: 'https://newbuild-v1-0.onrender.com',
       headers:  {"Access-Control-Allow-Origin": "*",
                  "Access-Control-Allow-Credentials":"false",
                  "Access-Control-Allow-Methods": "*",
